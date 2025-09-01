@@ -4,3 +4,6 @@
 # Dataset Used
   [Download
   Dataset](https://github.com/SandhithKumar13/IT-Tickets-Analysis-Dashboard-Project-/blob/2c3302547fcb9390a356976c99c8c9fc8e193f9a/IT-Help-Desk.xlsx)
+# Dashboard
+  [project
+  Dashboard](https://github.com/SandhithKumar13/IT-Tickets-Analysis-Dashboard-Project-/blob/42ab6f6aa63c6cdef17c4ec9a77e83810a3eec2f/Spec.PNG)
