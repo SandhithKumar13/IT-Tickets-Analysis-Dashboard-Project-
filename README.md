@@ -7,22 +7,31 @@
 # Dashboard
   [project
   Dashboard](https://github.com/SandhithKumar13/IT-Tickets-Analysis-Dashboard-Project-/blob/42ab6f6aa63c6cdef17c4ec9a77e83810a3eec2f/Spec.PNG)
-## 📊 Key KPIs  
+# 📊 Key Features
 
-- 👥 *Total Users* – 967  
-- 🎫 *Total Tickets* – 100K  
-- ⏱ *Total Resolution Days* – 684K  
-- 🏢 *Total Departments* – 15  
-- ⚡ *Average Resolution Days* – 6.84
+KPI Cards showing:
+Total Users
+Total Tickets
+Total Resolution Days
+Average Resolution Days
+Total Departments
 
-- ## 🛠 Tools & Technologies  
+Visuals & Charts:
+Bar chart for Tickets by Business Units & Groups
+Donut chart for Tickets by Category
+Trend chart for Tickets over Time
+Interactive Slicers for filtering by User & Resolution Days
+
+Interactive Dashboard: Provides easy navigation for stakeholders to analyze performance and identify bottlenecks.
+
+# 🛠 Tools & Technologies  
 - *Power BI Desktop* – Data modeling & visualization  
 - *Excel* – Dataset  
 - *DAX* – Measures & KPIs  
 
----
-
-## 👨‍💻 Author  
+# 👨‍💻 Author  
 *Sandhith Kumar*  
 📧 [sandhithkumar21@gmail.com]  
 💼 [https://www.linkedin.com/in/sandhith-kumar-1b72402b3]
+---
+
